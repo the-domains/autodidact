@@ -1,0 +1,14 @@
+layout_spectrum: 0.3611618005670607
+typography_spectrum: 0.7742529714014381
+color:
+  brandStrength: 0.7586285525467247
+  lightness: 0.15352895064279437
+  saturation: 0.15046453406102955
+  rhythmicContrast: 0.6856732368469238
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: Autodidact
